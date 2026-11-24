@@ -32,4 +32,4 @@ Feel free to create your own functions and try the demonstration with different 
 | `b2fade` / `b3fade` | Applies a linear or cubic Bezier fade; `mode="in"` or `"out"`. |
 | `merge` | Mixes two input sources from the beginning; `mix` weights the first input. Preserves the first input's duration. |
 | `trim` | Extracts an interval from an input source using frame indices. |
-| `concat` | Concatenates two input sources into one (implementation in progress). |
+| `concat` | Concatenates two input sources into one. |
